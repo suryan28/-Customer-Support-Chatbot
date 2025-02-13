@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a **FastAPI-based Customer Support Chatbot** that assists users with predefined FAQs and instructions. It leverages **OpenAI's API** to generate AI-powered responses.
+This is a **FastAPI-based Customer Support Chatbot** that assists users with predefined FAQs and instructions. It leverages **OpenAI's API** to generate AI-powered responses. If the user is not satisfied with the response, the bot can also open a ticket in Zoho for further assistance.
 
 ## Features
 
