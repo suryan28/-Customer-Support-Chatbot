@@ -44,7 +44,7 @@ This is a **FastAPI-based Customer Support Chatbot** that assists users with pre
    python main.py
 
 8. **Watch the demo video:**  
-   Open the video file located in the project directory:  
 
-   ```bash
-   path/to/video-file.mp4
+
+https://github.com/user-attachments/assets/d1c49d65-e31f-44d2-af5e-8791dd63637b
+
